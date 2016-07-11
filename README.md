@@ -4,6 +4,9 @@ This component is part of the [Practical Angular 2 book](https://leanpub.com/pra
 
 ## Summary: Creating routes in Angular
 
+These are just notes and snippets. You can peek at the source code to see how
+the Angular Router works.
+
 The Angular router is not part of the Angular core library and needs to be installed
 and imported separately (npm i @angular/router). Currently the latest version of @angular/router is 3.0.0-beta.2.
 
